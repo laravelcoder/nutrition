@@ -1,0 +1,60 @@
+root = true
+
+[*]
+end_of_line = lf
+indent_style = tab
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = false
+
+[*.sh]
+indent_size = 4
+
+[*.html]
+indent_size = 4
+
+[{*.js,*.json}]
+indent_size = 4
+
+[{*.css,*.styl,*.scss,*.less}]
+indent_size = 4
+
+[*.php]
+indent_size = 4
+
+[*.blade.php]
+indent_size = 4
+convert_to_tabs = true
+
+[*.stub]
+indent_size = 4
+
+[*.rb]
+indent_size = 4
+
+[*.py]
+indent_size = 4
+
+[*.txt]
+indent_size = 4
+
+[*.json]
+indent_size = 4
+
+[*.editorconfig]
+indent_size = 4
+convert_to_tabs = true
+
+[*.sublime-settings]
+indent_size = 4
+
+[*.sublime-snippet]
+indent_size = 4
+
+[*.txt]
+end_of_line = lf
+indent_style = tab
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = false
+indent_size = 4
