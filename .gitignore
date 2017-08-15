@@ -12,7 +12,7 @@ npm-debug.log
 /.ignore
 *.psd
 /*.sublime-workspace
-resources/views/layouts/partials/adams.sublime-workspace
+/.idea/
 *-bak
 *.php-bak.php
 *.rar
